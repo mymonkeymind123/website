@@ -1,17 +1,15 @@
-@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@100;400&display=swap');
-
 h1 {
-    font-family: 'IBM Plex Mono', monospace;
+    font-family: 'Courier New', monospace;
     justify-content: center;
     text-align: center;
 }
 
 body {
-    font-family: 'IBM Plex Mono', monospace;
+    font-family: 'Courier New', monospace;
 }
 
 p {
-    font-family: 'IBM Plex Mono', monospace;
+    font-family: 'Courier New', monospace;
 }
 
 .firstpage {
