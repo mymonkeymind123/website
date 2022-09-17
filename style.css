@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@100;400&display=swap');
 
-title {
+h1 {
     font-family: 'IBM Plex Mono', monospace;
     justify-content: center;
     text-align: center;
@@ -12,4 +12,16 @@ body {
 
 p {
     font-family: 'IBM Plex Mono', monospace;
+}
+
+.firstpage {
+    margin-top: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
+}
+
+li {
+    
+        margin-right: 150px;
+        margin-left: 80px;
 }
